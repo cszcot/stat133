@@ -285,7 +285,7 @@ library("RColorBrewer")
 
 #Q13. We are interested in the relationship between Sport and Sex. 
 # Examine the data frame and check which type of data each variable is.
-names(athletes)
+n#ames(athletes)
 ### Name : nominal
 ### Sex : nominal
 ### Sport : nominal
